@@ -18,7 +18,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         TurtleXMLProcessor xmlProcessor = new TurtleXMLProcessor();
         String filePath = "src/main/resources/turtles.xml";
-        Order order = new Order();
+        Order order = new Order(); 
 
         // Проверка наличия файла и создание, если он не существует
         File file = new File(filePath);
