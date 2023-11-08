@@ -23,7 +23,7 @@ public class Main {
         // Проверка наличия файла и создание, если он не существует
         File file = new File(filePath);
         if (!file.exists()) {
-            try {    
+            try {    //////////////////////////////
                 file.createNewFile();
             } catch (IOException e) {
                 System.out.println("Ошибка при создании файла turtles.xml: " + e.getMessage());
