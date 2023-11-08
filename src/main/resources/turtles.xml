@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<turtleList>
+    <turtles>
+        <id>0</id>
+        <name>Бобик</name>
+        <type>Кожистая</type>
+        <description>Черепашка Бобик - очень милая черепашка</description>
+        <color>Голубой</color>
+        <price>245</price>
+        <age>55</age>
+        <weight>20.0</weight>
+        <isMale>true</isMale>
+    </turtles>
+    <turtles>
+        <id>1</id>
+        <name>Жора</name>
+        <type>Дальневосточная</type>
+        <description>Очень красивая дальневосточная черепаха</description>
+        <color>Красные пятнышки в области ушей, зеленые полосы на лапах.</color>
+        <price>632</price>
+        <age>20</age>
+        <weight>10.0</weight>
+        <isMale>true</isMale>
+    </turtles>
+    <turtles>
+        <id>2</id>
+        <name>Гоша</name>
+        <type>Сухопутная</type>
+        <description>Очень красивая черепашка!</description>
+        <color>Желто-бежевый окрас с темными вкраплениями</color>
+        <price>5254</price>
+        <age>7</age>
+        <weight>3.0</weight>
+        <isMale>true</isMale>
+    </turtles>
+    <turtles>
+        <id>3</id>
+        <name>Паша</name>
+        <type>Кожистая</type>
+        <description>Самая лучшая черепашка</description>
+        <color>Черный сатин</color>
+        <price>2521</price>
+        <age>19</age>
+        <weight>40.0</weight>
+        <isMale>true</isMale>
+    </turtles>
+</turtleList>
